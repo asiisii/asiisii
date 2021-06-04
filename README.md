@@ -8,17 +8,20 @@
 </div>
 <br/>
 
-
-<p align="center">
-  &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. </p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
 
 </p>
-<br/>
 
-**<h2 align="center">My GitHub:</h2>**
+
+
+<p align="center">
+  &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. </p>
+
+
+
+**<h2 align="center">My GitHub: </h2>**  
+
 
 <details align="center">	
   <summary><b>👀 Stats</b></summary>
@@ -35,6 +38,10 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" />
 </details>
+
+
+
+
 
 <img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
 
