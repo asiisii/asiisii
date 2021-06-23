@@ -46,10 +46,12 @@
 <img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
 
 **<h2 align="left">About me: </h2>**
-
+<!--
 - 🔭  &nbsp; I’m currently working on [Pokédex](https://github.com/asiisii/Pokedex) project
-- 🛠 &nbsp; I’m currently working with React, Javascript, Firebase, PWA, Hooks, etc.
-- 🌱  &nbsp; I’m currently learning ***React-Redux*** & ***Hooks***
+-->
+- 🔭  &nbsp; I’m currently working on my portflio website
+- 🛠 &nbsp; I’m currently working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
+- 🌱  &nbsp; I’m currently learning ***Postgres*** & ***TypeScript***
  
 
 **<h2 align="left">Skills:</h2>**
