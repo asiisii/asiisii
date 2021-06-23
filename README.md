@@ -49,7 +49,7 @@
 <!--
 - 🔭  &nbsp; I’m currently working on [Pokédex](https://github.com/asiisii/Pokedex) project
 -->
-- 🔭  &nbsp; I’m currently working on my portflio website
+- 🔭  &nbsp; I’m currently working on my portfolio website
 - 🛠 &nbsp; I’m currently working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
 - 🌱  &nbsp; I’m currently learning ***Postgres*** & ***TypeScript***
  
