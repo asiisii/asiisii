@@ -76,9 +76,9 @@
 <p align="left">Testing</p>
 <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="45" height="45"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="45" height="45"/></code>
-
+<!--
 <hr/><hr/><hr/>
-
+-->
 
 
 
