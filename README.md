@@ -51,7 +51,7 @@
 -->
 - 🔭  &nbsp; I’m currently working on my portfolio website
 - 🛠 &nbsp; I’m currently working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
-- 🌱  &nbsp; I’m currently learning ***Postgres*** & ***TypeScript***
+- 🌱  &nbsp; I’m currently learning ***MongoDB*** & ***Bootstrap***
  
 
 **<h2 align="left">Skills:</h2>**
