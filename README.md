@@ -45,13 +45,13 @@
 
 <img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
 
-**<h2 align="left">About me: </h2>**
+**<h2 align="left">I'm currently: </h2>**
 <!--
-- 🔭  &nbsp; I’m currently working on [Pokédex](https://github.com/asiisii/Pokedex) project
+- 🔭  &nbsp; working on [Pokédex](https://github.com/asiisii/Pokedex) project
 -->
-- 🔭  &nbsp; I’m currently working on my portfolio website
-- 🛠 &nbsp; I’m currently working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
-- 🌱  &nbsp; I’m currently learning ***MongoDB*** & ***Bootstrap***
+- 🔭  &nbsp; working on my portfolio website
+- 🛠 &nbsp; working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
+- 🌱  &nbsp; learning ***MongoDB*** & ***Bootstrap***
  
 
 **<h2 align="left">Skills:</h2>**
