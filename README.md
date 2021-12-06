@@ -51,7 +51,7 @@
 -->
 - 🔭  &nbsp; working on my portfolio website
 - 🛠 &nbsp; working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
-- 🌱  &nbsp; learning ***Postgres*** & ***Ruby on Rails***
+- 🌱  &nbsp; learning ***Postgres***
  
 
 **<h2 align="left">Skills:</h2>**
