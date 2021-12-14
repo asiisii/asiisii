@@ -27,18 +27,19 @@
   <summary><b>👀 Stats</b></summary>
   <br />
   <a height="200em" href="https://github.com/asiisii">
-  <img  src="https://github-readme-stats.vercel.app/api/?username=asiisii&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api/?username=asiisii&show_icons=true&theme=tokyonight" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   </a>
 </details>
-
+<!--
 <details align="center"> 
   <summary><b>☄️ Streaks</b></summary>
 
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" />
 </details>
-
+-->
 
 
 
