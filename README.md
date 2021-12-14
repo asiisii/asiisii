@@ -19,9 +19,6 @@
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
 </p>
 
-<--  
-  with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. 
--->
 
 **<h2 align="center">My GitHub: </h2>**  
 
@@ -52,6 +49,9 @@
 **<h2 align="left">I'm currently: </h2>**
 <!--
 - 🔭  &nbsp; working on [Pokédex](https://github.com/asiisii/Pokedex) project
+
+  with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. 
+
 -->
 - 🔭  &nbsp; working to improve my PERN skills
 - 🛠 &nbsp; working with React, Redux, RoR, jQuery etc.
