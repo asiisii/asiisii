@@ -50,9 +50,9 @@
 <!--
 - 🔭  &nbsp; working on [Pokédex](https://github.com/asiisii/Pokedex) project
 -->
-- 🔭  &nbsp; working on my portfolio website
-- 🛠 &nbsp; working with React, Redux, Javascript, Firebase, PWA, Hooks, etc.
-- 🌱  &nbsp; learning ***Postgres***
+- 🔭  &nbsp; working to improve my PERN skills
+- 🛠 &nbsp; working with React, Redux, RoR, jQuery etc.
+- 🌱  &nbsp; learning ***RoR***
  
 
 **<h2 align="left">Skills:</h2>**
