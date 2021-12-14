@@ -17,12 +17,12 @@
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
 </p>
 
-
+<--
 **<h2 align="center">My GitHub: </h2>**  
-
+-->
 
 <details align="center">	
-  <summary><b>👀 Stats</b></summary>
+  <summary><b>Open to 👀 my GitHub Stats</b></summary>
   <br />
   <a height="200em" href="https://github.com/asiisii">
   <img  src="https://github-readme-stats.vercel.app/api/?username=asiisii&show_icons=true&theme=tokyonight" width="420px"/>
