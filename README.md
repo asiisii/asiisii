@@ -16,9 +16,9 @@
 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. </p>
+  &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. </p>
 
-
+<--  with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. -->
 
 **<h2 align="center">My GitHub: </h2>**  
 
