@@ -1,4 +1,7 @@
+<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
+</p>
 <h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Ashish+(PERN-Stack+Engineer);Welcome+to+my+GitHub+Profile"><br/>
 </h1>
 
@@ -7,10 +10,7 @@
 </div>
 <br/>
 
-<p align="center">
 
-
-</p>
 
 
 
