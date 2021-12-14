@@ -17,9 +17,7 @@
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
 </p>
 
-<--
-**<h2 align="center">My GitHub: </h2>**  
--->
+
 
 <details align="center">	
   <summary><b>Open to 👀 my GitHub Stats</b></summary>
@@ -51,6 +49,7 @@
   with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. 
 or <a href="mailto:ashishmalla45@gmail.com">Email</a>
                                            ### 💬  &nbsp; Ask me about anything tech related, I'm happy to help
+  **<h2 align="center">My GitHub: </h2>**  
 -->
 - 🔭  &nbsp; working to improve my PERN skills
 - 🛠 &nbsp; working with React, Redux, RoR, jQuery etc.
