@@ -3,7 +3,9 @@
 </h1>
 
 <div align="center">
+  
 ### 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asiisii/) 
+  
 </div>
 
 
@@ -11,9 +13,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
-</p>
-    <br/>  
+  <img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
+                                                                                                 
+</p> 
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
