@@ -1,11 +1,7 @@
                                                                                            
 <h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Ashish+(PERN-Stack+Engineer);Welcome+to+my+GitHub+Profile"><br/>
 </h1>
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
-</p>
-    <br/>  
 <div align="center">
 ### 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asiisii/) 
 </div>
@@ -13,7 +9,11 @@
 
 
 
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
+</p>
+    <br/>  
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
