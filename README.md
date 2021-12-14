@@ -67,17 +67,19 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></code>
 <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="45" height="45"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></code>
+  
 <p align="left">Backend Development</p>
   <code><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" height="45"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="45"/></code>
+ 
 
 <p align="left">Testing</p>
 <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="45" height="45"/></code>
