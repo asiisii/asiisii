@@ -2,8 +2,8 @@
 </h1>
 <div align="center">
 
-### 💬  &nbsp; Ask me about anything tech related, I'm happy to help
-### 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asiisii/) or <a href="mailto:ashishmalla45@gmail.com">Email</a>
+
+### 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asiisii/) 
 
 </div>
 <br/>
@@ -51,7 +51,8 @@
 - 🔭  &nbsp; working on [Pokédex](https://github.com/asiisii/Pokedex) project
 
   with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. 
-
+or <a href="mailto:ashishmalla45@gmail.com">Email</a>
+                                           ### 💬  &nbsp; Ask me about anything tech related, I'm happy to help
 -->
 - 🔭  &nbsp; working to improve my PERN skills
 - 🛠 &nbsp; working with React, Redux, RoR, jQuery etc.
