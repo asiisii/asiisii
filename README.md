@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
+<img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
                                                                                                  
 </p> 
 
