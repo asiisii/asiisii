@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Ashish+(Front-End+Engineer);Welcome+to+my+GitHub+Profile"><br/>
+<h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Ashish+(PERN-Stack+Engineer);Welcome+to+my+GitHub+Profile"><br/>
 </h1>
 <div align="center">
 
