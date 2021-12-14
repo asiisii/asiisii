@@ -59,14 +59,14 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
 **<h2 align="left">Skills:</h2>**
 
 <p align="left">Frontend Development</p>
-<code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="45"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="45" height="45"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="45" height="45"/></code>
-<code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="45"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>   </code>
+  <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="45" height="45"/></code>
+  <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></code>
   
 <p align="left">Backend Development</p>
   <code><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="45" height="45"/></code>
