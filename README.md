@@ -11,7 +11,9 @@
 <br/>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> </p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asiisii&label=Views&color=blue&style=plastic" alt="asiisii” /> 
+</p> 
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
@@ -30,14 +32,7 @@
   
   </a>
 </details>
-<!--
-<details align="center"> 
-  <summary><b>☄️ Streaks</b></summary>
 
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" />
-</details>
--->
 
 
 
