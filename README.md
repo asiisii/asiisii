@@ -18,14 +18,14 @@
 </p>
 
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 <details align="center">	
-  <summary><b>Open to 👀  my GitHub Stats</b></summary>
+  <summary><b>Open to 👀  more Stats</b></summary>
   <br />
   <a height="200em" href="https://github.com/asiisii">
   <img  src="https://github-readme-stats.vercel.app/api/?username=asiisii&show_icons=true&theme=tokyonight" width="420px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" width="420px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  
   </a>
 </details>
 <!--
