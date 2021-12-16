@@ -19,6 +19,17 @@
   &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
+</p>
+<!--
+<details align="center"> 
+  <summary><b>☄️ Streaks</b></summary>
+
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" />
+</details>
+-->
 
 
 <details align="center">	
