@@ -57,7 +57,7 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
                                            ### 💬  &nbsp; Ask me about anything tech related, I'm happy to help
   **<h2 align="center">My GitHub: </h2>**  
 -->
-- 🔭  &nbsp; working to improve my PERN skills
+- 🔭  &nbsp; working on my portfolio website
 - 🛠 &nbsp; working with React, Redux, RoR, jQuery etc.
 - 🌱  &nbsp; learning ***RoR***
  
