@@ -16,7 +16,7 @@
 </p> 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; Front-End Engineer and innovative Computer Information Systems professional. Committed to strategically bridging design and technology to enhance client satisfaction, experience, and loyalty. 
+  &nbsp; &nbsp; &nbsp; As a Full-Stack Software Engineer with a focus on Front-End development and a background in Computer Information Systems, I have a unique blend of technical and strategic skills. I am highly skilled in bridging the gap between design and technology, and am committed to delivering exceptional user experiences that drive client satisfaction and loyalty. Whether I am working on the front-end or back-end of a project, I have the knowledge and ability to bring ideas to life and create innovative solutions that meet the needs of my clients.. 
 </p>
 
 <p align="center">
