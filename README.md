@@ -58,8 +58,8 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
   **<h2 align="center">My GitHub: </h2>**  
 -->
 - 🔭  &nbsp; working on my portfolio website
-- 🛠 &nbsp; working with React, Redux, RoR, jQuery etc.
-- 🌱  &nbsp; learning ***RoR***
+- 🛠 &nbsp; working with React, Redux, RTK Query, RoR, jQuery, Tailwinds etc.
+- 🌱  &nbsp; learning ***MERN & PERN stack***
  
 
 **<h2 align="left">Skills:</h2>**
