@@ -73,6 +73,7 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
   <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="45" height="45"/></code>
   <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="figma" width="45" height="45"/></code>                                                                                                    
   
 <p align="left">Backend Development</p>
   <code><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="45" height="45"/></code>
