@@ -16,7 +16,7 @@
 </p> 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; As a Full-Stack Software Engineer with a focus on Front-End development and a background in Computer Information Systems, I have a unique blend of technical and strategic skills. I am highly skilled in bridging the gap between design and technology, and am committed to delivering exceptional user experiences that drive client satisfaction and loyalty. Whether I am working on the front-end or back-end of a project, I have the knowledge and ability to bring ideas to life and create innovative solutions that meet the needs of my clients.. 
+  &nbsp; &nbsp; &nbsp; As a full-stack developer with a focus on frontend, I'm passionate about creating intuitive and responsive user interfaces that enhance the user experience. With over 2 years of experience and a strong background in modern technologies like TypeScript, React, and Redux Toolkit, I enjoy collaborating with teams to build efficient and robust applications. Currently, I'm also exploring the exciting world of AI and machine learning through Java and Python for a project at work. 
 </p>
 
 <p align="center">
