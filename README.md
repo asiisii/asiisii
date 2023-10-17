@@ -35,8 +35,7 @@
   </a>
 </details>
 -->
-  <img  src="https://github-readme-stats.vercel.app/api/?username=asiisii&show_icons=true&theme=tokyonight" width="420px"/>
-<!--<a height="200em" href="https://github.com/asiisii"></a>-->
+
   
 
 
