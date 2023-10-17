@@ -78,9 +78,9 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
   <code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="45"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></code>
+  
   <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" height="45"/></code>
+  
  
 
 <p align="left">Testing</p>
@@ -88,8 +88,13 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
 <code><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="45" height="45"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/></code>
   
+
+
+<p align="left">Tools</p>
+<code><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="postman" width="45" height="45"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></code>
 <!--
-<hr/><hr/><hr/>
+<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" height="45"/></code>
 -->
 
 
