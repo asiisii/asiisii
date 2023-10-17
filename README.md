@@ -31,7 +31,7 @@
 </details>
 -->
 
-
+<!--
 <details align="center">	
   <summary><b>Open to 👀  more Stats</b></summary>
   <br />
@@ -41,9 +41,11 @@
   
   </a>
 </details>
-
-
-
+-->
+<a height="200em" href="https://github.com/asiisii">
+  <img  src="https://github-readme-stats.vercel.app/api/?username=asiisii&show_icons=true&theme=tokyonight" width="420px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" width="420px" />
+</a>
 
 
 <img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
