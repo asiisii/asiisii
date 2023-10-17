@@ -52,7 +52,7 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
 -->
 - 🔭  &nbsp; working on improving backend skills
 - 🛠 &nbsp; working with React, Nextjs, FastApi, Sqlalchemy, GraphQL, Astrojs, AlpineJs, HTMX, Tailwindcss, etc.
-- - 🌱  &nbsp; learning ***Server side rendering concepts***
+- 🌱  &nbsp; learning ***Server side rendering concepts***
 <!--
 - 🌱  &nbsp; learning ***MERN & PERN stack***
  -->
