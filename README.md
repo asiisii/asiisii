@@ -16,7 +16,7 @@
 </p> 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; As a full-stack developer with a focus on frontend, I'm passionate about creating intuitive and responsive user interfaces that enhance the user experience. With over 2 years of experience and a strong background in modern technologies like TypeScript, React, and Redux Toolkit, I enjoy collaborating with teams to build efficient and robust applications. Currently, I'm also exploring the exciting world of AI and machine learning through Java and Python for a project at work. 
+  &nbsp; &nbsp; &nbsp; Passionate software engineer with a background in Computer Information Systems and a love for creating innovative solutions. Experienced in frontend and full-stack development, my tech stack includes React, React Native, FastAPI, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and more. Winner of a solo frontend engineer hackathon, committed to building a brighter tech-driven future."
 </p>
 
 <p align="center">
