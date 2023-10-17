@@ -71,13 +71,13 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
   <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="figma" width="45" height="45"/></code>                                                                                                    
   
 <p align="left">Backend Development</p>
-  <code><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="45" height="45"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="45"/></code>
-  
   <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></code>
   
  
@@ -94,6 +94,8 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/></code>
+
 <!--
 <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" height="45"/></code>
 -->
