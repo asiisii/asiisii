@@ -60,6 +60,7 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
 **<h2 align="left">Skills:</h2>**
 
 <p align="left">Frontend Development</p>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="45"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/></code>
