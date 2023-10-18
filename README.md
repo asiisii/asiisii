@@ -16,7 +16,7 @@
 </p> 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; Passionate software engineer with a background in Computer Information Systems and a love for creating innovative solutions. Experienced in frontend and full-stack development, my tech stack includes React, React Native, FastAPI, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and more. Winner of a solo frontend engineer hackathon, committed to building a brighter tech-driven future."
+  &nbsp; &nbsp; &nbsp; Passionate software engineer with a background in Computer Information Systems and a love for creating innovative solutions. Experienced in frontend and full-stack development, my tech stack includes React, React Native, FastAPI, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and more. Winner of a solo frontend engineer hackathon, committed to building a brighter tech-driven future.
 </p>
 
 <p align="center">
