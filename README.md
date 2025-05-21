@@ -50,7 +50,7 @@ or <a href="mailto:ashishmalla45@gmail.com">Email</a>
                                            ### 💬  &nbsp; Ask me about anything tech related, I'm happy to help
   **<h2 align="center">My GitHub: </h2>**  
 -->
-- 🔭  &nbsp; working on improving backend skills with FastApi, GraphQL, and Postgres
+- 🔭  &nbsp; working on improving backend skills with RoR, Python, and Postgres
 - 🛠 &nbsp; working with React, Nextjs, FastApi, Sqlalchemy, GraphQL, Astrojs, AlpineJs, HTMX, Tailwindcss, etc.
 - 🌱  &nbsp; learning ***Server side rendering concepts***
 <!--
