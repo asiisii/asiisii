@@ -20,16 +20,10 @@
 </p>
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" width="420px" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
   <img src="https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight" width="420px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&show_icons=true&theme=tokyonight" width="420px" />
-  
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&show_icons=true&theme=tokyonight" width="420px" onerror="this.style.display='none';" />
 </p>
-<!-- ![asiisii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight&hide_border=true) -->
-<!--   ![Asiisii's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight) -->
 
 <!--
 <details align="center">	
