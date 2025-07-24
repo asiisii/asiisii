@@ -23,10 +23,10 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" width="420px" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/api/v1/streak?user=asiisii&theme=tokyonight" width="420px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight" width="420px" />
 
 </p>
-  ![Asiisii's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=radical)
+<!--   ![Asiisii's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight) -->
 
 <!--
 <details align="center">	
