@@ -1,5 +1,5 @@
                                                                                            
-<h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Ashish+(Fullstack+Engineer);Welcome+to+my+GitHub+Profile"><br/>
+<h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Asiisii+(Fullstack+Engineer);Welcome+to+my+GitHub+Profile"><br/>
 </h1>
 
 <div align="center">
@@ -16,12 +16,15 @@
 </p> 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; Passionate software engineer with a background in Computer Information Systems and a love for creating innovative solutions. Experienced in frontend and full-stack development, my tech stack includes React, React Native, FastAPI, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and more. Winner of a solo frontend engineer hackathon, committed to building a brighter tech-driven future.
+  &nbsp; &nbsp; &nbsp; Full stack engineer focused on solving real world problems with clean and efficient code. I work with React, React Native, Ruby on Rails, Python, and PostgreSQL to build robust and scalable applications. My approach is simple: focus on what makes a product easy to use and fast to scale while adapting to new challenges. I don’t just code to build, it’s about creating solutions that make a tangible impact. Always learning, always improving, and never settling for good enough.
 </p>
 
 <p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" width="420px" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&theme=tokyonight" width="420px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/api/v1/streak?user=asiisii&theme=tokyonight" width="420px" />
+
 </p>
 
 <!--
