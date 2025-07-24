@@ -43,20 +43,12 @@
 <img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
 
 **<h2 align="left">I'm currently: </h2>**
-<!--
-- 🔭  &nbsp; working on [Pokédex](https://github.com/asiisii/Pokedex) project
+**<h2 align="left">I'm currently: </h2>**
+- 🔭  &nbsp; Focusing on backend development with Ruby on Rails, Python, PostgreSQL, and FastAPI.
+- 🛠 &nbsp; Working with React, React Native, Ruby on Rails, FastAPI, SQLAlchemy, GraphQL, AlpineJS, HTMX, TailwindCSS, and other modern tools.
+- 🌱  &nbsp; Continuously learning new backend techniques, optimizing performance, and improving application scalability.
+- 🔄  &nbsp; Exploring Server-Side Rendering (SSR) and other advanced frontend technologies for building high-performance web applications.
 
-  with progressive knowledge and experience in  Video Conferencing and Engineering. Seeking opportunities to cross-collaborate in a front-end development environment to provide user-friendly solutions while executing on business objectives and increasing overall efficiency. 
-or <a href="mailto:ashishmalla45@gmail.com">Email</a>
-                                           ### 💬  &nbsp; Ask me about anything tech related, I'm happy to help
-  **<h2 align="center">My GitHub: </h2>**  
--->
-- 🔭  &nbsp; working on improving backend skills with RoR, Python, and Postgres
-- 🛠 &nbsp; working with React, Nextjs, FastApi, Sqlalchemy, GraphQL, Astrojs, AlpineJs, HTMX, Tailwindcss, etc.
-- 🌱  &nbsp; learning ***Server side rendering concepts***
-<!--
-- 🌱  &nbsp; learning ***MERN & PERN stack***
- -->
 
 **<h2 align="left">Skills:</h2>**
 
