@@ -42,12 +42,8 @@
 </details>
 -->
 
-  
-
-
 <img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
 
-**<h2 align="left">I'm currently: </h2>**
 **<h2 align="left">I'm currently: </h2>**
 - 🔭  &nbsp; Focusing on backend development with Ruby on Rails, Python, PostgreSQL, and FastAPI.
 - 🛠 &nbsp; Working with React, React Native, Ruby on Rails, FastAPI, SQLAlchemy, GraphQL, AlpineJS, HTMX, TailwindCSS, and other modern tools.
