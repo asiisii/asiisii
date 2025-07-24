@@ -26,6 +26,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/api/v1/streak?user=asiisii&theme=tokyonight" width="420px" />
 
 </p>
+  ![Asiisii's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=radical)
 
 <!--
 <details align="center">	
