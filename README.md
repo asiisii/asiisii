@@ -22,14 +22,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" />  
   <img src="https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight" width="420px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&show_icons=true&theme=tokyonight" width="420px" onerror="this.style.display='none';" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&show_icons=true&theme=tokyonight" width="420px" onerror="this.style.display='none';" /> -->
 </p>
 
 <a href="https://github.com/asiisii/asiisii">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asiisii&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/asiisii/asiisii">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=tru&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
 </a>
 
 <!--
