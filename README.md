@@ -18,19 +18,17 @@
 <p align="center">
   &nbsp; &nbsp; &nbsp; Full stack engineer focused on solving real world problems with clean and efficient code. I work with React, React Native, Ruby on Rails, Python, and PostgreSQL to build robust and scalable applications. My approach is simple: focus on what makes a product easy to use and fast to scale while adapting to new challenges. I don’t just code to build, it’s about creating solutions that make a tangible impact. Always learning, always improving, and never settling for good enough.
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" />  
   <img src="https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight" width="420px" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&show_icons=true&theme=tokyonight" width="420px" onerror="this.style.display='none';" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiisii&show_icons=true&theme=tokyonight" width="420px" onerror="this.style.display='none';" />
 </p>
-
-<a href="https://github.com/asiisii/asiisii">
+-->
+<p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asiisii&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/asiisii/asiisii">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiisii&show_icons=tru&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
-</a>
+</p>
 
 <!--
 <details align="center">	
