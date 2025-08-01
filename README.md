@@ -1,5 +1,5 @@
                                                                                            
-<h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Asiisii+(Fullstack+Engineer);Welcome+to+my+GitHub+Profile"><br/>
+<h1 align="center">Hey 👋🏽, <br/><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&color=58A5FF&size=21&center=true&lines=I'm+Asiisii+(Fullstack+Web+Mobile+Engineer);Welcome+to+my+GitHub+Profile"><br/>
 </h1>
 
 <div align="center">
